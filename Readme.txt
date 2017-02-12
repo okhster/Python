@@ -1,1 +1,1 @@
-Public folder that hold some python homework assignments, and future projects that I have been experimenting on. Enjoy:)
+Public folder to hold some python homework assignments, and future projects that I have been experimenting on. Enjoy:)
